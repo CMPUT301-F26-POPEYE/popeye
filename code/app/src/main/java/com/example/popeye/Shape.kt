@@ -1,4 +1,3 @@
 package com.example.popeye
 
-class Shape {
-}
+abstract class Shape(val x: Int, val y:Int)
